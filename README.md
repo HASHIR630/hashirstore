@@ -1,1 +1,2 @@
-# hashirstore
+hashir.html
+style.css
